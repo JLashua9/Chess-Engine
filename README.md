@@ -32,11 +32,5 @@ This is a simple Chess game in C++. Two players take turns entering their moves 
 - Implement a simple AI for single-player mode
 - Fix the stalemate detection logic.
 
-## Grade Justification
 
-- **Main Program (30/40)**: It has an interactive loop, uses inheritance for different pieces, checks moves, and ends the game at checkmate or stalemate. Input validation is present but minimal.
-- **Inheritance Relationship (20/20)**: The `Piece` base class and derived classes are used effectively.
-- **Style & Documentation (0 pts deducted)**: Code is fairly organized and commented.
-
-**Est. Total**: 5*0 pts*
 
